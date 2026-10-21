@@ -27,8 +27,9 @@ git clone git@github.com:⟨uporabnisko-ime⟩/git-zgodba.git
 V ukazno vrstico v VSCode (v imeniku `rp`) napišite `git clone`, prilepite naslov in stisnite vnašalko.
 
 Sledite navodilom v datoteki `navodila.md`:
-- v ukazni vrstici se premaknite v repozitorij: `cd git-zgodba` in
-- izpišite vsebino datoteke z navodili: `cat navodila.md`.
+- v ukazni vrstici se premaknite v repozitorij: `cd git-zgodba`,
+- izpišite vsebino datoteke z navodili: `cat navodila.md` in
+- ko bo potrebno, lahko novo datoteko ustvarite z ukazom `touch ⟨ime-datoteke⟩`.
 
 Datoteka `navodila.md` je napisana v jeziku Markdown, zato je koda označena z obrnjenimi apostrofi: `` ` ``.
 To pomeni, da če so v datoteki navodila
